@@ -27,3 +27,11 @@
     - { name: iotop, state: latest }
     - { name: lsof, state: latest }
     - { name: mlocate, state: latest } # Please disable this package if you run this role on NFS-server
+    - { name: yum-utils, state: latest }
+    - { name: psmisc, state: latest }
+    - { name: tree, state: latest }
+    - { name: stress, state: latest }
+    - { name: links, state: latest }
+    - { name: lynks, state: latest }
+    - { name: "@Development tools", state: latest }
+    - { name: nc, state: latest }
