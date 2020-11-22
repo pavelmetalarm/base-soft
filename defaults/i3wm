@@ -1,0 +1,9 @@
+---
+- i3wm_soft_list:
+    - { name: i3, state: latest }
+    - { name: i3status, state: latest }
+    - { name: dmenu, state: latest }
+    - { name: i3lock, state: latest }
+    - { name: xbacklight, state: latest }
+    - { name: feh, state: latest }
+    - { name: conky, state: latest }   
